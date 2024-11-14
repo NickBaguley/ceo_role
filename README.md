@@ -33,3 +33,10 @@ To attract the right candidates, the following points should be emphasized in jo
 4. **Ethical Practices**: Stress the importance Beyond.ai places on ethical AI practices, appealing to candidates who are passionate about responsible technology development.
 
 This comprehensive report should provide useful insights into how to shape the job postings for Beyond.ai to attract individuals who resonate with its culture and values.
+
+
+# Agent: Job Description Writer
+## Thought: I need to gather more insights from Beyond.ai to craft a compelling job posting for the Chief Executive Officer (CEO) position, focusing on the company's values and culture.
+## Using tool: Search the internet
+## Tool Input:
+"{\"search_query\": \"Beyond.ai company values and culture\", \"website\": \"https://www.beyond.ai\"}"
